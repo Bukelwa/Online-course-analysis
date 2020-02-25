@@ -1,4 +1,3 @@
-Mechanic Online Course
 Mechanic online course wants to know whether a different approach to teaching (for an large online course) has any effect on student outcomes.
 
 Two groups (A and B)of students were randomly chosen.
